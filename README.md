@@ -1,2 +1,2 @@
 # Internet-Border-Patrol
-It's an algorithm to control the cogestion in the network by sending feedbacks to and forth between the edge routers.
+Internet/Network Border Patrol is a congestion avoidance mechanism that effectively preventscongestion collapse and provides approximate max-min fairness of bandwidth allocations to competing network flows.  
